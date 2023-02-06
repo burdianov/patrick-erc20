@@ -1,6 +1,4 @@
 {
-  "name": "patrick-erc20",
-  "packageManager": "yarn@3.3.1",
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
     "@ethersproject/providers": "^5.4.7",
